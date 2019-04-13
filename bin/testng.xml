@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNewTours">
+  <test name="LoginTest">
+    <classes>
+      <class name="module6.NewTest"/>
+      <class name="module6.Annotations"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
